@@ -5,7 +5,7 @@ from telegram import Bot
 
 # === НАСТРОЙКИ ===
 TOKEN = "7376425928:AAGD1h8J29xaE30PSIl7RudVJxtzZoLd2mc"  # твоят Telegram бот токен
-CHAT_ID = "тук-въведи-своя-chat-id"  # твоя Telegram ID (ще ти кажа как да го намериш)
+CHAT_ID = "7699318928"  # твоя Telegram ID (ще ти кажа как да го намериш)
 
 # Списък с токени, които ще се наблюдават
 TOKENS = ["OP", "PENGU", "PYTH"]  # можеш да добавяш още
